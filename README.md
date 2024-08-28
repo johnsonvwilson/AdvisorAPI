@@ -11,3 +11,4 @@ Components needs to be installed
 1. Clone the repository:
    ```bash
    git clone https://github.com/johnsonvwilson/AdvisorAPI.git
+2. Run the application if the dependencies are added:
