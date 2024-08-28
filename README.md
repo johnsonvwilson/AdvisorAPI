@@ -10,4 +10,4 @@ Components needs to be installed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AdvisorAPI.git
+   git clone https://github.com/johnsonvwilson/AdvisorAPI.git
