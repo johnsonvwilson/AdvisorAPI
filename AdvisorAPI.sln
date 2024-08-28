@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvisorAPI", "AdvisorAPI\AdvisorAPI.csproj", "{62272EC8-D4AD-4F4F-95A9-27F06FBB1616}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvisorUnitTest", "AdvisorUnitTest\AdvisorUnitTest.csproj", "{27F53B19-5C67-430F-B377-1D949EE036B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D9D430B-17C1-48DA-AB80-11EA16A4D089}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62272EC8-D4AD-4F4F-95A9-27F06FBB1616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62272EC8-D4AD-4F4F-95A9-27F06FBB1616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62272EC8-D4AD-4F4F-95A9-27F06FBB1616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62272EC8-D4AD-4F4F-95A9-27F06FBB1616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F53B19-5C67-430F-B377-1D949EE036B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F53B19-5C67-430F-B377-1D949EE036B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F53B19-5C67-430F-B377-1D949EE036B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F53B19-5C67-430F-B377-1D949EE036B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABAD3AB-5297-4E75-8C23-B204208C2E38}
+	EndGlobalSection
+EndGlobal
