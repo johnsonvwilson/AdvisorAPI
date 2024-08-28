@@ -6,7 +6,7 @@ Components needs to be installed
 - .NET SDK
 
 - The dependency files (Already added in the project, but it requires to update in the local PC.)
-If dependency files are not added. please execute the below in bash.
+If dependency files are not added. please execute the below in bash. 
 - <ItemGroup>
   <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
   <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0-preview.7.24405.3" />
